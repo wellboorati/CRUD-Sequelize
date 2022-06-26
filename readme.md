@@ -1,3 +1,7 @@
+Esse projeto foi feito enquanto estava estudando sobre Sequelize, portanto, o readme abaixo é um rascunho sobre o processo do que precisa ser feito. 
+
+PASSO A PASSO FEITO PARA ESTUDOS ABAIXO: 
+
 PASSO A PASSO SEQUELIZE:
 
 1º Criar tabela no diagrama para ter uma base do que precisa ser feito
